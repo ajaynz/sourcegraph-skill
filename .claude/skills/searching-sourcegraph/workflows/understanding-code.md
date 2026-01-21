@@ -57,7 +57,6 @@ Tests reveal:
 
 ## Tips
 
-- Use Deep Search for "how does X work" instead of multiple keyword searches
 - Read 2-3 related files before synthesising
 - Tests are documentation—read them
 - Check for architecture docs in `docs/` or README files
