@@ -7,7 +7,7 @@ AI agent skills for searching and understanding codebases with Sourcegraph.
 ### Claude Code
 
 ```bash
-bunx add-skill YOUR_GITHUB_USERNAME/skills
+npx skills add ajaynz/sourcegraph-skill --skill "sourcegraph-mcp-skill"
 ```
 
 Or manually copy the `.claude/skills/` directory to your project or `~/.claude/skills/`.
