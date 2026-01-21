@@ -52,6 +52,3 @@ Search Sourcegraph-indexed codebases for patterns, examples, and system understa
     └── debugging-issue.md
 ```
 
-## License
-
-MIT
