@@ -7,7 +7,7 @@ AI agent skills for searching and understanding codebases with Sourcegraph.
 ### Claude Code
 
 ```bash
-npx skills add ajaynz/sourcegraph-skill --skill "searching-sourcegraph"
+npx skills add sourcegraph-community/sourcegraph-skill --skill "searching-sourcegraph"
 ```
 
 Or manually copy the `.claude/skills/` directory to your project or `~/.claude/skills/`.
